@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local vector database is regenerated from data/smc_notes.txt.
+chroma_db/
+
+# Local journals can contain private trading history.
+data/trade_journal.csv
+data/trade_journal.db
+data/signals.jsonl

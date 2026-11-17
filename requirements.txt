@@ -1,0 +1,11 @@
+openai
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pandas
+numpy
+plotly
+yfinance
+MetaTrader5
+matplotlib

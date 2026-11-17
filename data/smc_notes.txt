@@ -1,0 +1,8 @@
+liquidity:
+- liquidity pools form where stop losses cluster; market often moves to take liquidity before reversing.
+
+order blocks:
+- order blocks are bullish or bearish areas where institutions placed large orders; look for prior consolidation candles.
+
+break of structure (BOS):
+- BOS indicates a likely directional change when market structure highs/lows are broken; confirm with liquidity and order block context.
